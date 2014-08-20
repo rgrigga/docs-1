@@ -263,7 +263,7 @@ follow this convention:
 ======================= ==================
 Relation                Schema
 ======================= ==================
-Banana belongsTo Apple  bananas.apple\_id
+Banana belongsTo Fruit  bananas.fruit\_id
 ----------------------- ------------------
 Profile belongsTo User  profiles.user\_id
 ----------------------- ------------------
